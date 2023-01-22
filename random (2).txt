@@ -2,8 +2,8 @@ read
 blue
 yellow
 pinkxcv
-blackxcv
-greensxdv
+blackyyy
+greenyyy
 
 
 i
