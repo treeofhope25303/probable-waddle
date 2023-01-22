@@ -1,0 +1,6 @@
+read
+blue
+yellow
+pink
+black
+green
