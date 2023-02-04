@@ -12,3 +12,6 @@ he
 she
 they
 them
+
+new 1
+new 2
